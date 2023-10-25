@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./designFinal.png" alt="Design Final">
+  <img src="./assets/IMG/designFinal.png" alt="Design Final">
 </p>
 
 ## Descrição do Projeto
